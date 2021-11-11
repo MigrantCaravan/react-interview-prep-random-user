@@ -1,3 +1,11 @@
+# React Interview Preparation using `https://randomuser.me/` API
+
+A repository where to practice some React hooks, such as useState() and UseEffect(), wich is doing the REST API call from `https://randomuser.me/`.
+
+This exercise is inspired by [this Youtube interview simulation](https://www.youtube.com/watch?v=gnkrDse9QKc&t=161s).
+
+![](public/DEMO.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
